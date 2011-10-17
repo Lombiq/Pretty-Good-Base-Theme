@@ -84,5 +84,5 @@
 {
     text-indent: -3000px;
     font-size: 0px;
-    text-decoration: none;
+    text-decoration: none !important;
 }

@@ -1,6 +1,4 @@
-﻿/* Structure
-***************************************************************/
-#layout-wrapper
+﻿#layout-wrapper
 {
     /* For sticky footer */
     height: auto;
@@ -57,10 +55,11 @@ nav ul
         font-size: 2.9em;
         padding: 0;
         margin: 0;
+        display: block;
     }
     #branding a 
     {
-        text-decoration:none;
+        text-decoration: none;
         color: #434343;
     }
     
