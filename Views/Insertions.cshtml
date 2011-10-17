@@ -4,6 +4,7 @@
     /// 
     /// By overriding this shape template in a child theme you can easily add shapes to the layout without overriding it or
     /// using widgets.
+    /// To just add to this set, override AdditionalInsertions.cshtml
     /// </summary>
 }
 
@@ -16,4 +17,6 @@
     WorkContext.Layout.Header.Add(New.Branding(), "5"); // Site name and link to the home page
     WorkContext.Layout.Footer.Add(New.BadgeOfHonor(), "5"); // Powered by Orchard
     WorkContext.Layout.Footer.Add(New.User(), "10"); // Login and dashboard links
+
+    Display.AdditionalInsertions();
 }
