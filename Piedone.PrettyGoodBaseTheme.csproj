@@ -77,7 +77,6 @@
     <Content Include="ThemeZonePreview.png" />
     <Content Include="Views\Web.config" />
     <Content Include="Web.config" />
-    <Content Include="Scripts\Web.config" />
     <Content Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -91,7 +90,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Content\Web.config" />
     <None Include="Images\Web.config" />
     <None Include="Views\AdditionalInsertions.cshtml" />
     <None Include="Views\AdditionalResources.cshtml" />
