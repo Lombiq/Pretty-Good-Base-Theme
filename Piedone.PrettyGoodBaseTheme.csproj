@@ -93,8 +93,6 @@
     <None Include="Images\Web.config" />
     <None Include="Views\AdditionalInsertions.cshtml" />
     <None Include="Views\AdditionalResources.cshtml" />
-    <None Include="Views\BadgeOfHonor.cshtml" />
-    <None Include="Views\Branding.cshtml" />
     <None Include="Views\Document.cshtml" />
     <None Include="Views\Insertions.cshtml" />
     <None Include="Views\Layout.cshtml" />
