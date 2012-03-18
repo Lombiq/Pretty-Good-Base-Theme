@@ -2,7 +2,7 @@
 Author: Piedone
 Website: http://prettygoodbasetheme.codeplex.com/
 Description: PGBT is an Orchard theme that aims to provide a set of common markup and styling so other themes can easily inherit from it. Almost everything is taken from the core and The Theme Machine shape templates and stylesheets (credit goes to the Orchard Team!), refactored, reorganized and enhanced.
-Version: 1.2.1
+Version: 1.2.2
 BaseTheme: TheThemeMachine
 Tags: Pretty Good Base Theme
 Zones: Header, Navigation, Featured, BeforeMain, AsideFirst, Messages, BeforeContent, Content, AfterContent, AsideSecond, AfterMain, TripelFirst, TripelSecond, TripelThird, FooterQuadFirst, FooterQuadSecond, FooterQuadThird, FooterQuadFourth, Footer
