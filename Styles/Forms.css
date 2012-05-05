@@ -14,8 +14,8 @@ legend
 
 fieldset
 {
-    padding: 0em;
-    margin: 0 0 0em 0;
+    padding: 6px 0 0;
+    margin: 0 0 12px 0;
     border: 0px solid #dbdbdb;
 }
 
@@ -32,7 +32,7 @@ label.forcheckbox
     display: inline;
 }
 
-input, select, textarea 
+input, select, textarea
 {
     font-family: inherit;
     font-size: inherit;
@@ -40,7 +40,8 @@ input, select, textarea
     border: 1px solid #bbb;
 }
 
-input:focus, select:focus, textarea:focus {
+input:focus, select:focus, textarea:focus
+{
     border: 1px solid #000;
 }
 
@@ -65,4 +66,102 @@ fieldset ol
 fieldset ol li
 {
     margin: 0 0 6px 0;
+}
+
+form.inline, form.inline fieldset
+{
+    /* todo: (heskew) need something other than .inline ... */
+    display: inline;
+}
+
+form.inline fieldset
+{
+    margin: 0;
+}
+
+input[type="checkbox"]:focus, input[type="radio"]:focus
+{
+    outline: 1px dotted #666d51;
+}
+
+input[readonly]
+{
+    background-color: #EBEBE4;
+    color: #545454;
+}
+
+legend span
+{
+    font-weight: normal;
+}
+
+label span
+{
+    font-weight: normal;
+}
+
+label input
+{
+    vertical-align: text-top;
+}
+
+.hint
+{
+    display: block;
+    font-size: 0.846em;
+    color: #999;
+    margin-top: 3px;
+    padding: 3px;
+}
+
+/* todo: (heskew) try to get .text on stuff like .text-box */
+select, textarea, input.text, input.textMedium, input.text-small, input.text-box
+{
+    font-family: inherit;
+    padding: 3px;
+    border: 1px solid #bdbcbc;
+    font-family: inherit;
+    font-size: inherit;
+}
+
+input.text, input.textMedium, input.text-box
+{
+    line-height: 1.2em;
+}
+
+/*Are we using the two classes below?*/
+input.text-small
+{
+    width: 4em;
+}
+
+input.textMedium
+{
+    width: 26em;
+}
+
+select
+{
+    padding: 1px;
+}
+
+select:focus, textarea:focus, input.text:focus, input.text-box:focus, input.text-small:focus, input.textMedium:focus
+{
+    border-color: #666d51;
+}
+
+input.check-box
+{
+    margin-left: 0;
+    vertical-align: -.1em;
+}
+
+input.large.text, textarea, fieldset
+{
+    clear: both;
+}
+
+textarea
+{
+    min-height: 8em;
 }
