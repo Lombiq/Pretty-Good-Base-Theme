@@ -84,6 +84,7 @@
     <None Include="Views\AdditionalInsertions.cshtml" />
     <None Include="Views\AdditionalResources.cshtml" />
     <None Include="Views\Document.cshtml" />
+    <None Include="Views\HiddenBranding.cshtml" />
     <None Include="Views\Insertions.cshtml" />
     <None Include="Views\Layout.cshtml" />
     <None Include="Views\Resources.cshtml" />
