@@ -145,6 +145,11 @@ li ul, li ol
     margin: 0 1.5em;
 }
 
+ul, ol, dl
+{
+    text-align: justify;
+}
+
 ul, ol
 {
     margin: 1.5em;
