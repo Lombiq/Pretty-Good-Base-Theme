@@ -4,9 +4,7 @@ using System.Linq;
 using System.Web;
 using Orchard.Environment.Extensions;
 using Orchard;
-using Orchard.ContentManagement; // For generic ContentManager methods
 using Orchard.UI.PageTitle;
-using Orchard.Themes.Models;
 using Orchard.Settings;
     
 namespace Themes.Piedone.PrettyGoodBaseTheme
