@@ -82,13 +82,13 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Images\Web.config" />
-    <None Include="Views\AdditionalInsertions.cshtml" />
-    <None Include="Views\AdditionalResources.cshtml" />
-    <None Include="Views\Document.cshtml" />
-    <None Include="Views\HiddenBranding.cshtml" />
-    <None Include="Views\Insertions.cshtml" />
-    <None Include="Views\Layout.cshtml" />
-    <None Include="Views\Resources.cshtml" />
+    <Content Include="Views\AdditionalInsertions.cshtml" />
+    <Content Include="Views\AdditionalResources.cshtml" />
+    <Content Include="Views\Document.cshtml" />
+    <Content Include="Views\HiddenBranding.cshtml" />
+    <Content Include="Views\Insertions.cshtml" />
+    <Content Include="Views\Layout.cshtml" />
+    <Content Include="Views\Resources.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ReversedPageTitleBuilder.cs" />
