@@ -81,7 +81,7 @@
     <Content Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Images\Web.config" />
+    <Content Include="Images\Web.config" />
     <Content Include="Views\AdditionalInsertions.cshtml" />
     <Content Include="Views\AdditionalResources.cshtml" />
     <Content Include="Views\Document.cshtml" />
