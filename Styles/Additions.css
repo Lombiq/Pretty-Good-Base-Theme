@@ -1,0 +1,61 @@
+﻿/* PGBT additions to The Theme Machine styles. Styles in all other files are identical to the original ones.
+***************************************************************/
+
+
+/* General
+***************************************************************/
+html, body
+{
+    height: 100%; /* for sticky footer to work */
+}
+
+ul, ol, dl
+{
+    text-align: justify;
+}
+
+p
+{
+    text-align: justify;
+}
+
+
+/* Forms
+***************************************************************/
+legend
+{
+    margin: 0 0 1.2em 0;
+}
+
+input, select, textarea
+{
+    font-family: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+    border: 1px solid #bbb;
+}
+
+input:focus, select:focus, textarea:focus
+{
+    border: 1px solid #000;
+}
+
+
+/* Structure
+***************************************************************/
+#layout-wrapper
+{
+    /* For sticky footer */
+    height: auto;
+    min-height: 100%;
+}
+
+
+/* Misc
+***************************************************************/
+.hidden-text
+{
+    text-indent: -3000px;
+    font-size: 0px;
+    text-decoration: none !important;
+}

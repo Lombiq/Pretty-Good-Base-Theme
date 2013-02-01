@@ -61,6 +61,7 @@
   <ItemGroup>
     <Content Include="Images\favicon.ico" />
     <Content Include="Screenshot.png" />
+    <Content Include="Styles\Additions.css" />
     <Content Include="Styles\CSS3.css" />
     <Content Include="Styles\Forms.css" />
     <Content Include="Styles\General.css" />
