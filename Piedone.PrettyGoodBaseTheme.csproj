@@ -92,9 +92,6 @@
     <Content Include="Views\Resources.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ReversedPageTitleBuilder.cs" />
-  </ItemGroup>
-  <ItemGroup>
     <Folder Include="Zones\" />
   </ItemGroup>
   <ItemGroup>
