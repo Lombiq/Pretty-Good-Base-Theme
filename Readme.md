@@ -21,7 +21,7 @@ In addition to this PGBT does the following:
 - Enhances form styling: better usability by outlining the focused input element, default border styles and inputs inherit font properties
 - Makes adding a favicon extremely easy (just drop it in)
 - Added some CSS formatting
-- Reverses the order of title parts (provides <page title\> <separator\> <site name\> instead of the native version where site name is always at the beginning)
+- Reverses the order of title parts (provides `<page title>` `<separator>` `<site name>` instead of the native version where site name is always at the beginning)
 
 ### Installation and upgrade notes
 
@@ -37,9 +37,9 @@ Since PGBT became a C# project from a simple theme folder, if you added it to th
 
 To provide a better structure, PGBT uses plenty of external stylesheets. This can impact the performance (load time) of your page, since the client has to fetch all the stylesheets separately. To overcome this, try the [Combinator module](http://gallery.orchardproject.net/List/Modules/Orchard.Module.Piedone.Combinator) which combines all the stylesheets (and javascript files) into one file (with minification).
 
-### See the [How to...](Docs/HowTo.md)
+**See the [How to...](Docs/HowTo.md)**
 
-### See the [Version history](Docs/VersionHistory.md)
+**See the [Version history](Docs/VersionHistory.md)**
 
 See [Pretty Good Bootstrap Base Theme](https://github.com/Lombiq/Pretty-Good-Bootstrap-Base-Theme) for a Twitter Bootstrap-based theme serving similarly as a base theme.
 

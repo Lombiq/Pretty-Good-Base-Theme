@@ -1,6 +1,6 @@
 ﻿Name: Pretty Good Base Theme
 Author: Piedone
-Website: http://prettygoodbasetheme.codeplex.com/
+Website: https://github.com/Lombiq/Pretty-Good-Base-Theme
 Description: PGBT is an Orchard theme that aims to provide a set of common markup and styling so other themes can easily inherit from it. Almost everything is taken from the core and The Theme Machine shape templates and stylesheets (credit goes to the Orchard Team!), refactored, reorganized and enhanced.
 Version: 1.3.3
 BaseTheme: TheThemeMachine
