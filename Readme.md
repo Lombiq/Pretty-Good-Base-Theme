@@ -1,8 +1,8 @@
-# Pretty Good Base Theme Orchard Theme Readme
+# Pretty Good Base Theme Orchard Theme
 
 
 
-## Project Description
+## About
 
 PGBT is an Orchard theme that aims to provide a set of common markup and styling so other themes can easily inherit from it.
 
@@ -45,12 +45,9 @@ See [Pretty Good Bootstrap Base Theme](https://github.com/Lombiq/Pretty-Good-Boo
 
 You can install the theme from the [Orchard Gallery](http://gallery.orchardproject.net/List/Themes/Orchard.Theme.Piedone.PrettyGoodBaseTheme).
 
-The module's source is available in two public source repositories, automatically mirrored in both directions with [Git-hg Mirror](https://githgmirror.com):
 
-- [https://bitbucket.org/Lombiq/pretty-good-base-theme](https://bitbucket.org/Lombiq/pretty-good-base-theme) (Mercurial repository)
-- [https://github.com/Lombiq/Pretty-Good-Base-Theme](https://github.com/Lombiq/Pretty-Good-Base-Theme) (Git repository)
+## Contributing and support
 
-Bug reports, feature requests and comments are warmly welcome, **please do so via GitHub**.
-Feel free to send pull requests too, no matter which source repository you choose for this purpose.
+Bug reports, feature requests, comments, questions, code contributions, and love letters are warmly welcome, please do so via GitHub issues and pull requests. Please adhere to our [open-source guidelines](https://lombiq.com/open-source-guidelines) while doing so.
 
-This project is developed by [Lombiq Technologies Ltd](http://lombiq.com/). Commercial-grade support is available through Lombiq.
+This project is developed by [Lombiq Technologies](https://lombiq.com/). Commercial-grade support is available through Lombiq.
